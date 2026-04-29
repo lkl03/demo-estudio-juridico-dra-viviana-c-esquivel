@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dra-viviana-c-esquivel
-Demo web para Estudio Jurídico Dra. Viviana C. Esquivel — diseñada por eterlab.
+# Estudio Jurídico Dra. Viviana C. Esquivel
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
